@@ -1,4 +1,3 @@
-## Institution Offering Training:
 * University of Toronto
 * University of British Columbia
 * University of Waterloo

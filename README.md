@@ -1,23 +1,9 @@
-# web-presentation
-
-Project is designed to quickly build presentation as a web page.
-
-To create your presentation just fork this repository.
-
-presentation example https://deepidea.github.io/web-presentation/
-
-
-**NOTES**
-
-- Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)
-
-- Years will be displayed horizontally  
-
-- Months will be displayed as vertical navigation in a given year
-
-- Presentation pages will be displayed in chronological order
-
-- GitHub Pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
+## Presentation note
+* [Job Description](/Job_description.md)
+* [Working Conditions](/Working_conditions.md)
+* [Pay Structure as it relates to number of years of education and experience](/Pay_structure.md)
+* [Likes and Dislikes](/Likes.md)
+* [Availability of the Job](/Availability.md)
+* [Helpful High School Courses](/Helpful.md)
+* [Institutions Offering Training](/Instructions)
+* [Other Jobs Where This Training Could Be Used](/Other_jobs.md)
