@@ -5,5 +5,5 @@
 * [Likes and Dislikes](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Likes.md)
 * [Availability of the Job](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Availability.md)
 * [Helpful High School Courses](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Helpful.md)
-* [Institutions Offering Training](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Instructions)
+* [Institutions Offering Training](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Institutions.md)
 * [Other Jobs Where This Training Could Be Used](https://github.com/michaeldai7/cle-presentation/blob/master/_notes/Related_jobs.md)
